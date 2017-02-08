@@ -9,7 +9,7 @@ category: blog
 ---
 
 # This is a test
-## also this is the first thing I have written in markdown. Yay!
+also this is the first thing I have written in markdown. Yay!
 
 1. I
 2. Can
