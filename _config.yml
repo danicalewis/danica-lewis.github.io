@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Danica Lewis
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Danica Lewis
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  twitter: #username
+  bio: "This is a test website that I am practicing building."
+  email: danica_lewis@ncsu.edu
+  twitter: danicamlewis
   facebook: #username
   instagram: #username
   linkedin: #username
